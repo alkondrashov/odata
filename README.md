@@ -17,8 +17,11 @@ dotnet add package Microsoft.AspNetCore.Odata
 `https://localhost:7005/WeatherForecast`
 
 `https://localhost:7005/odata`
+
 `https://localhost:7005/odata/Cars`
+
 `https://localhost:7005/odata/Cars(2)`
+
 `https://localhost:7005/odata/Cars?$filter=Price le 50`
 
 ```c#
